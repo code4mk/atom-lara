@@ -15,9 +15,26 @@ Mian Features:
   - Laravel Snippet
   - Laravel collective
 
+  Main Feature ❤️
+
+
+  | Name  |  snippet |
+  |---|---|
+  |  auth |  la- |
+  | collections  | lcl-  |   
+  | controller | lct-  |
+  | filesystem| lf- |
+  | helpers| lh-|
+  | migrations|lmg-|
+  | relation| lrl-
+  | routing|lr-|
+  | seeding| lsd-|
+  | use| use-|
+  |laravel-collective| lc-|
+
 Version:
 
-  - Atom-lara = 0.2.0
+  - Atom-lara = 0.3.0
 
 ---
 * [@code4mk](https://twitter.com/code4mk) // ~  [Hello Laravel](https://twitter.com/hellolaravelbd)
