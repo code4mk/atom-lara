@@ -1,6 +1,6 @@
 <p align="center" ><img src="images/atom-lara.png"></p>
 
-# Atom Larvel snippet for Laravel & Atom Lovers
+#  Laravel snippet for Laravel & Atom Lovers
 
 Install:
 ```ssh
