@@ -8,7 +8,7 @@ Install:
 apm install atom-lara
 ```
 
-Doc : [wiki page](https://github.com/code4mk/atom-axios/wiki)
+Doc : [wiki page](https://github.com/code4mk/atom-lara/wiki)
 
 Mian Features:
 
@@ -17,7 +17,7 @@ Mian Features:
 
 Version:
 
-  - Atom-lara = 0.0.1
+  - Atom-lara = 0.2.0
 
 ---
 * [@code4mk](https://twitter.com/code4mk) // ~  [Hello Laravel](https://twitter.com/hellolaravelbd)
