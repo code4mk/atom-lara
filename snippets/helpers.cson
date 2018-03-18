@@ -130,8 +130,8 @@
     "body": """
       head($1)
     """
-  "head ->laravel":
-    "prefix": "lh-head"
+  "last ->laravel":
+    "prefix": "lh-last"
     "body": """
       last($1)
     """
@@ -294,11 +294,6 @@
     "prefix": "lh-bcrypt"
     "body": """
       bcrypt($1);
-    """
-  "config ->laravel":
-    "prefix": "lh-config"
-    "body": """
-      config($1);
     """
   "config ->laravel":
     "prefix": "lh-config"

@@ -176,11 +176,6 @@
       'body': """
       $table->timeTz('sunrise$1');
       """
-    'bigIncrements -> laravel':
-      'prefix': 'lmg-bigIncrements'
-      'body': """
-
-      """
     'tinyInteger -> laravel':
       'prefix': 'lmg-tinyInteger'
       'body': """

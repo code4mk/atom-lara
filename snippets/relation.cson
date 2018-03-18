@@ -114,14 +114,3 @@
         return $this->morphToMany('App\\\\Tag', 'taggable');
     }
     """
-  "polymorpic many parent->laravel":
-    "prefix": "lrl-p2mp"
-    "body": """
-     /**
-     * Get all of the posts that are assigned this tag.
-     */
-    public function posts()
-    {
-        return $this->morphedByMany('App\\\\Post', 'taggable');
-    }
-    """
