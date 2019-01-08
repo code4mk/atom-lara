@@ -109,3 +109,9 @@
            $1
        }
       """
+
+    'model softDeletes -> laravel':
+      'prefix': 'lm-soft'
+      'body': """
+       use SoftDeletes;
+      """
